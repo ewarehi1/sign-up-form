@@ -1,0 +1,46 @@
+.sections {
+    display: flex;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0px;
+    left: 0px;
+}
+
+.side-bar {
+    width: 30%;
+}
+
+.plant-background {
+    background-color: green;
+    height: 100vh;
+}
+
+.odin-logo {
+    background-color: navy;
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    width: 30%;
+}
+
+.main-page {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-text {
+    background-color: lightgrey;
+    flex-grow: 1;
+}
+
+.form {
+    background-color: grey;
+    height: 250px;
+}
+
+.bottom-text {
+    background-color: lightgrey;
+    flex-grow: 1;
+}
