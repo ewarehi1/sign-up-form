@@ -12,16 +12,33 @@
 }
 
 .plant-background {
-    background-color: green;
     height: 100vh;
+    background-image: url("background-plant.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.odin-logo {
-    background-color: navy;
+.odin-logo-background {
     position: absolute;
     top: 200px;
     left: 0px;
     width: 30%;
+    height: 140px;
+    background-color: black;
+    opacity: 40%;
+}
+
+.odin-logo {
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    width: 30%;
+    opacity: 100%;
+    color: white;
+}
+
+.odin-symbol {
+    height: 140px;
 }
 
 .main-page {
