@@ -42,6 +42,8 @@
     opacity: 100%;
     color: white;
     font-size: 140px;
+    display: flex;
+    justify-content: center;
 }
 
 .main-page {
