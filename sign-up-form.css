@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Norse-Bold;
+    src: url(Norse-Bold.otf);
+}
+
 .sections {
     display: flex;
     position: fixed;
@@ -29,12 +34,14 @@
 }
 
 .odin-logo {
+    font-family: Norse-Bold;
     position: absolute;
     top: 200px;
     left: 0px;
     width: 30%;
     opacity: 100%;
     color: white;
+    font-size: 140px;
 }
 
 .main-page {
