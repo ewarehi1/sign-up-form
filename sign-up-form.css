@@ -68,6 +68,19 @@
     height: 250px;
 }
 
+form {
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px
+}
+
+.form-component {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 300px;
+}
+
 .bottom-text {
     background-color: lightgrey;
     flex-grow: 1;
