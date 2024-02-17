@@ -91,4 +91,6 @@ form {
 .bottom-text {
     background-color: #f7f7f7;
     flex-grow: 1;
+    padding-left: 40px;
+    padding-top: 30px;
 }
