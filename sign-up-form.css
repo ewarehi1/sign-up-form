@@ -69,11 +69,19 @@
 .top-text {
     margin-left: 40px;
     margin-bottom: 80px;
+    font-size: 22px;
+    font-weight: bold;
+    width: 55ch;
 }
 
 .form {
     background-color: #ffffff;
     height: 250px;
+}
+
+.form-header {
+    font-size: 22px;
+    font-weight: bold;
 }
 
 form {
@@ -87,6 +95,16 @@ form {
     flex-direction: column;
     padding: 10px;
     width: 300px;
+}
+
+.form-component > label {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.form-component > input {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .bottom-text {
