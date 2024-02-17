@@ -59,12 +59,12 @@
 }
 
 .top-text {
-    background-color: lightgrey;
+    background-color: #f7f7f7;
     flex-grow: 1;
 }
 
 .form {
-    background-color: grey;
+    background-color: #ffffff;
     height: 250px;
 }
 
@@ -82,6 +82,6 @@ form {
 }
 
 .bottom-text {
-    background-color: lightgrey;
+    background-color: #f7f7f7;
     flex-grow: 1;
 }
