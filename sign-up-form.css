@@ -123,6 +123,11 @@ input:focus {
     box-shadow: 4px 4px 3px lightgrey;
 }
 
+input:invalid {
+    outline: 1px solid red;
+    border: 1px solid red;
+}
+
 .bottom-text {
     background-color: #f7f7f7;
     flex-grow: 1;
