@@ -111,6 +111,10 @@ form {
 
 .form-component > input {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 7px 10px;
+    border: 1px solid darkgrey;
+    border-radius: 3px;
+    font-size: 15px;
 }
 
 .bottom-text {
