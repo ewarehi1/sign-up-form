@@ -117,6 +117,12 @@ form {
     font-size: 15px;
 }
 
+input:focus {
+    outline: 1px solid #596D48;
+    border: 1px solid #596D48;
+    box-shadow: 4px 4px 3px lightgrey;
+}
+
 .bottom-text {
     background-color: #f7f7f7;
     flex-grow: 1;
