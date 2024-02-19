@@ -155,3 +155,9 @@ button {
     border: 1px solid #596D48;
     border-radius: 8px;
 }
+
+a {
+    color: #596D48;
+    font-weight: bold;
+    text-decoration-line: none;
+}
