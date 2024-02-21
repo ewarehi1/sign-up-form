@@ -119,6 +119,10 @@ form {
     font-size: 15px;
 }
 
+input:hover {
+    border: 1px solid grey;
+}
+
 input:focus {
     outline: 1px solid #596D48;
     border: 1px solid #596D48;
