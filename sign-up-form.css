@@ -158,7 +158,6 @@ button {
 }
 
 button:hover {
-    /* outline: 1px solid #4b5c3e; */
     background-color: #4b5c3e;
     border: 1px solid #4b5c3e;
 }
@@ -167,4 +166,8 @@ a {
     color: #596D48;
     font-weight: bold;
     text-decoration-line: none;
+}
+
+a:hover {
+    text-decoration-line: underline;
 }
