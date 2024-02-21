@@ -53,6 +53,18 @@
     align-self: center;
 }
 
+#photo-credit {
+    position: absolute;
+    bottom: 30px;
+    color: white;
+    width: 500px;
+    text-align: center;
+}
+
+#photo-credit > a {
+    color: white;
+}
+
 .main-page {
     width: 100%;
     display: flex;
@@ -168,12 +180,12 @@ button:hover {
     border: 1px solid #4b5c3e;
 }
 
-a {
+#log-in {
     color: #596D48;
     font-weight: bold;
     text-decoration-line: none;
 }
 
-a:hover {
+#log-in:hover {
     text-decoration-line: underline;
 }
