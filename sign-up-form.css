@@ -157,6 +157,12 @@ button {
     border-radius: 8px;
 }
 
+button:hover {
+    /* outline: 1px solid #4b5c3e; */
+    background-color: #4b5c3e;
+    border: 1px solid #4b5c3e;
+}
+
 a {
     color: #596D48;
     font-weight: bold;
